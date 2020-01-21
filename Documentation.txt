@@ -1,0 +1,11 @@
+To run project from IDE:
+Open your used IDE (e.g. Eclipse, IntelliJ IDEA, etc)
+Import project from VismaPractice folder
+Run project as java application
+
+To run application from Windows terminal (Java needed):
+Open terminal (Windows + R -> type cmd -> OK)
+Type command:
+java -jar <PATH_TO>\visma_practice.jar
+e.g.:
+java -jar C:\Users\UserName\Desktop\visma_practice.jar
